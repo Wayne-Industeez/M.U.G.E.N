@@ -1,0 +1,247 @@
+;---------------------------------------------------------------------
+[Characters]
+
+; row 1
+Superman, stages\metropolis.def, music=sound\03-Superman.mp3, order=4
+Batman, stages\GCPDroof.def, music=sound\04-Batman.mp3, order=1
+wonder, stages\themyscira.def, music=sound\05-Wonder_Woman.mp3, order=4
+HalJordan, stages\OanMoon.def, music=sound\06-Hal_Jordan.mp3, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+ironman, stages\ironman_stage.def, music=sound\14-Iron_Man.mp3, order=2
+thor, stages\asgard_bifrost.def, music=sound\13-Thor.mp3, order=4
+CaptainAmerica, stages\WhiteHouseIncident.def, music=sound\12-Captain_America.mp3, order=1
+SavageHulk, stages\IncredibleHulk.def, music=sound\11-Hulk.mp3, order=4
+
+; row 2
+supergirl, stages\metropolis.def, order=4
+kon-el, stages\GoldenGate.def, music=sound\07-Superboy.mp3, order=2
+nightwing, stages\TitansTower.def
+TheAtom, stages\tower.def, order=2
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+AntMan, stages\Shield_Helicarrier(Widow&Fury).def, order=2
+Daredevil, stages\DareDevil.def
+spiderman, stages\spiderman_stage.def, music=sound\15-Spiderman.mp3, order=2
+SheHulk, stages\hulk_stage.def, order=4
+
+
+; row 3
+Shazam, stages\rock-eternity_rx.def, order=3
+Steel, stages\Steel_Stage_ScruffyDragon.def, order=3
+Starfire, stages\TitansTower.def, order=2
+MartianManhunter, stages\HallofJustice.def, order=3
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+TheVision, stages\StarkShowroom.def, order=3
+MsMarvel, stages\Shield_Helicarrier(Widow&Fury)def, order=2
+Colossus, stages\DCvsM_Danger_Room.def, order=3
+CaptainMarVell, stages\Shield_Helicarrier(Widow&Fury).def, order=3
+
+; more rows
+CVG_Flash, stages\Flash1.def, order=4
+CaptainAtom, stages\tower.def, order=5
+Dr.Fate, stages\Justicesocietyofamerica.def, order=5
+Arrow, stages\tower.def
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+Hawkeye, stages\StarkTowerGarage.def
+DoctorStrange, stages\sanctum.def, order=5
+Surfer, stages\spaceout.def, order=5
+Quicksilver, stages\searchforwanda.def, order=4
+
+; more rows
+JasonTodd, stages\suicideslum.def, order=1
+catwoman, stages\cats_on_the_roof.def
+BLACK MANTA, stages\AtlantianWaters.def, order=2
+SolomonGrundy, stages\bornonamonday.def, order=4
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+TheThing, stages\yancyst.def, order=4
+BlackPanther, stages\WakandanPalace.def, order=2
+BlackCat, stages\scaffold.def
+Punisher, stages\PunisherStage.def, order=1
+
+
+; "Bosses"
+etrigan, stages\Jason_Blood_Apartment.def, order=3
+lobo, stages\lobobar.def, music=sound\08-Lobo.mp3, order=3
+Aquaman, stages\AtlantianWaters.def, order=2
+bane, stages\gothambay.def, order=2
+empty
+#leave blank#
+#leave blank#
+#leave blank#
+#leave blank#
+empty
+venom_MMV, stages\NewYorkMarvel.def, order=2
+Namor, stages\SHIELDAtlantisOutpost.def, order=2
+wolverine, stages\cataracts.def, music=sound\16-Wolverine.mp3, order=3
+GhostRider, stages\Cemetery.def, order=3
+joker, stages\fairgrounds.def
+luthor, stages\Lexcorp.def, music=sound\09-Lex_Luthor.mp3, order=5
+blackadam3, stages\sha.def, order=5
+Doomsday, stages\Doomsday_in_Metropolis.def, order=5
+empty
+empty
+empty
+empty
+empty
+empty
+Juggernaut, stages\Site.def, order=5
+Magneto, stages\avalon.def, order=5
+DOOM, stages\latveria.def, music=sound\17-Doctor_Doom.mp3, order=5
+Deadpool, stages\X-MansionLibrary.def
+darkseid, stages\apokolips.def, music=sound\10-Darkseid.mp3, order=6
+brainiac, stages\brainstar.def, order=5
+mongul, stages\debstamIV.def, order=5
+Anti-Monitor, stages\GalactusOutpost.def, music=sound\ANTI-MONITOR.mp3, order=6
+empty
+empty
+empty
+Thanoseid, stages\Space.def, order=5
+empty
+empty
+Galactus, stages\GalactusOutpost.def, music=sound\GALACTUS.mp3, order=6
+Apocalypse, stages\Apocalypse.def, order=5
+ultron, stages\Ultrongenerator.def, order=5
+Thanos, stages\thanos_stage.def, music=sound\18-Thanos.mp3, order=6
+MvC_Raven, stages\tower.def, order=5
+MvC_Deathstroke, stages\DeathstrokeStage.def
+Parallax, stages\new_york_city_skyline.def, order=6
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+Onslaught, stages\new_york_city_skyline.def, order=6
+Taskmaster, stages\AIMCloningFactory.def
+JeanGrey, stages\DCvsM_Danger_Room.def, order=5
+beyond, stages\neo-gotham.def
+Major_Force, stages\STARlabs.def, order=3
+Parasite, stages\STARlabs.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+Rogue, stages\DCvsM_Danger_Room.def, order=3
+wonderman, stages\Shield_Helicarrier(Widow&Fury).def, order=3
+sman2099, stages\fmall.def
+ROBINLOTDK, stages\TitansTower.def
+Cyborg, stages\TitansTower.def, order=2
+Zatanna, stages\tower.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+ScarletWitch,stages\GenoshaSecretEntrance.def, order=3
+Cable, stages\NightofTheSentinels.def, order=2
+Jubilee, stages\DCvsM_Danger_Room.def
+ten, stages\neo-gotham.def, order=2
+HarleyQuinn, stages\fairgrounds.def
+Powergirl, stages\metropolis.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+Spider-Woman, stages\Shield_Helicarrier(Widow&Fury).def, order=3
+BlackWidow, stages\Shield_Helicarrier_Invasion.def
+Psylocke, stages\DCvsM_Danger_Room.def, order=2
+ice, stages\tower.def, order=2
+Fire, stages\tower.def, order=2
+PoisonIvy, stages\Botanical_Gardens.def, order=2
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+crystal, stages\baxter.def, order=2
+HumanTorch, stages\baxter.def, order=2
+Iceman, stages\DCvsM_Danger_Room.def, order=2
+HellBoy, stages\hellboystage.def, order=3
+Optimus_Prime, stages\anime_canyon.def, order=2
+he-man, stages\CastleGrayskull.def, music=sound\HE-MAN.mp3, order=2
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+liono, stages\catslair.def, order=2
+SnakeEyes, stages\ussflagg.def, order=2
+CVG_Spawn, stages\blackheart_stage.def, order=3
+Scorpion, stages\XX'DIFUSION'XX.def, music=sound\SCORPION.mp3, order=2
+Sub-Zero, stages\XX'DIFUSION'XX.def, music=sound\SUBZERO.mp3, order=2
+UM-Raiden, stages\XX'DIFUSION'XX.def, music=sound\RAIDEN.mp3, order=2
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+xMvCGoukix, stages\showdown.def, music=sound\AKUMA.mp3, order=2
+Ken_MvC, stages\showdown.def, music=sound\KEN.mp3, order=2
+Ryu_MvC, stages\showdown.def, music=sound\RYU.mp3, order=2
+
+
+
+;-----------------------
+[ExtraStages]
+
+stages/stage1.def
+
+;---------------------------------------------------------------------
+[Options]
+ ;Here you set the maximum number of matches to fight before game ends
+ ;in Arcade Mode. The first number is the number of matches against
+ ;characters with order=1, followed by order=2 and order=3 respectively.
+ ;For example, for 4,3,1 you will fight up to 4 randomly-picked
+ ;characters who have order=1, followed by 3 with order=2 and 1 with
+ ;order=3.
+arcade.maxmatches = 2,2,1,1,1,1,1,1,1,1
+
+ ;Maximum number of matches to fight before game ends in Team Mode.
+ ;Like arcade.maxmatches, but applies to Team Battle.
+team.maxmatches = 4,1,1,0,0,0,0,0,0,0

@@ -1,0 +1,451 @@
+;---------------------------------------------------------------------
+[Characters]
+
+; row 1
+abyss, stages\Wide_Putin.def, music=sound\putin.snd, order=6
+Batman, stages\MJ dance game, music=sound\04-Batman.mp3, order=1
+big chungus, stages\StarkShowroom.def, order=3
+BlueBeetle, stages\tower.def, order=2
+empty
+empty
+empty
+empty
+empty
+empty
+CarlosMyMainMan, stages\StarkShowroom.def, order=3
+CFJ_Liu_Kang, stages\cataracts.def, music=sound\5 Wolverine.mp3, order=3
+Chicken guy, stages\rock-eternity_rx.def, order=3
+coffin_dance_char, stages\WhiteHouseIncident.def, music=sound\12-Captain_America.mp3, order=1
+
+; row 2
+ConquerorSalmon, stages\StarkShowroom.def, order=4
+coronavirus, stages\hulk_stage.def, order=4
+cranberry, stages\StarkShowroom.def, order=3
+CVG_Flash, stages\IncredibleHulk.def, music=sound\11-Hulk.mp3, order=4
+empty
+empty
+empty
+empty
+empty
+empty
+Cyborg Superman, stages\KentFarm.def, order=4
+Daredevil, stages\TitansTower.def
+darkseid, stages\tower.def, order=2
+Darth Vader, stages\Shield_Helicarrier(Widow&Fury).def, order=2
+
+; row 3
+Dcat_Mike, stages\DareDevil.def
+Doomsday, stages\spiderman_stage.def, music=sound\15-Spiderman.mp3, order=2
+dr-manhattan-mgmx-, stages\hulk_stage.def, order=4
+Galactus, stages\rock-eternity_rx.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+Ghostface, stages\StarkShowroom.def, order=3
+ssjgss ssj9000, stages\StarkShowroom.def, order=3
+Green Ranger, stages\cats_on_the_roof.def, order=2
+GuanoNinja, stages\StarkShowroom.def, order=3
+
+; more rows
+hamburguesa, stages\HallofJustice.def, order=3
+hand_sanitizer, stages\Steel_Stage_ScruffyDragon.def, order=3
+HellBoy, stages\StarkShowroom.def, order=3
+he-man, stages\Avengers_Tower.def, order=2
+empty
+empty
+empty
+empty
+empty
+empty
+InfiniteIronMan, stages\StarkShowroom.def, order=3
+MeAndTheBoys, stages\StarkShowroom.def, order=3
+Michael Jackson [Remastered Edit],stages\Avengers_Tower.def, order=2
+ModokDu, stages\cats_on_the_roof.def, order=2
+
+; more rows
+MoonKnight, stages\DCvsM_Danger_Room.def, music=sound\COLOSSUS.mp3, order=3
+niño_ratta, stages\StarkShowroom.def, order=3
+Obama, stages\HallofJustice.def, order=3
+pepsimanVTE, stages\rock-eternity_rx.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+PepsiTheBear, stages\kree.def, order=3
+petertank, stages\Avengers_Tower.def, order=2
+PizzaRoll Of Darkness, stages\StarkShowroom.def, order=3
+Powergirl, stages\StarkShowroom.def, order=3
+
+; more rows
+Predator, stages\Avengers_Tower.def, order=2
+sadclapsmk69, stages\StarkShowroom.def, order=3
+Shaggy, stages\StarkShowroom.def, order=3
+TheBigRig, stages\StarkShowroom.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+Tropicana, stages\StarkShowroom.def, order=3
+UNO, stages\StarkShowroom.def, order=3
+UNO_REVERSE, stages\StarkShowroom.def, order=3
+WalGarutRuf, stages\StarkShowroom.def, order=3
+
+; "Bosses"
+Wide_Putin, stages\StarkShowroom.def, order=3
+Y_D_J, stages\StarkShowroom.def, order=3
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+
+
+;-----------------------
+[ExtraStages]
+
+stages\Wide Putin.def
+stages\FallenLiberty.def
+stages\wolvmsh.def
+stages\magneto_stage.def
+stages\drdoombg.def
+stages\genosha.def
+stages\moon2.def
+stages\mutanthunting.def
+stages\bugle.def
+stages\Hiest.def
+stages\Yashida_House.def
+stages\Zone.def
+stages\ConstructionofMasterMold.def
+stages\XX'CLOCK'XX.def
+stages\XX'CLOCK'2'XX.def
+stages\XX'CLOCK'2'XX_1.def
+stages\XX'FACTORY'XX.def
+stages\XX'MVC2'DESERT'XX.def
+stages\XX'MVC2'DESERT'ALT'XX.def
+stages\XX'SWAMP'DAY'XX.def
+stages\XX'SWAMP'XX.def
+stages\XX'UNDERGROUND'CAVERN'XX.def
+stages\[MVC2]Circus_Carnival.def
+stages\XX'SHWA'MVC2'TRAINING'SHWA'XX.def
+stages\StageZeroBlue.def
+stages\StageZeroRed.def
+stages\StageZeroPurple.def
+
+;---------------------------------------------------------------------
+[Options]
+ ;Here you set the maximum number of matches to fight before game ends
+ ;in Arcade Mode. The first number is the number of matches against
+ ;characters with order=1, followed by order=2 and order=3 respectively.
+ ;For example, for 4,3,1 you will fight up to 4 randomly-picked
+ ;characters who have order=1, followed by 3 with order=2 and 1 with
+ ;order=3.
+arcade.maxmatches = 2,2,1,1,1,1,1,1,1,1
+
+ ;Maximum number of matches to fight before game ends in Team Mode.
+ ;Like arcade.maxmatches, but applies to Team Battle.
+team.maxmatches = 1,1,1,2,2,1,0,0,0,0
